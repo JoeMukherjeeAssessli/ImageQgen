@@ -537,7 +537,7 @@ def load_biology_data(file_path):
 def load_all_biology_data():
     """Load biology chapter data from all JSON files in the current folder"""
     all_data = []
-    json_files = [f for f in os.listdir('.') if f.lower().endswith('.json') and 'biology' in f.lower()]
+    json_files = [os.path.join('IMG_Q', f) for f in os.listdir('IMG_Q') if f.lower().endswith('.json') and 'biology' in f.lower()]
     
     for file_path in json_files:
         try:
