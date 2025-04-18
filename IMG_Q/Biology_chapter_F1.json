@@ -1,0 +1,20 @@
+[
+    {
+        "chapter": "THE LIVING WORLD",
+        "chapter_number": 1,
+        "class": 11,
+        "topics_subtopics": [
+            {
+                "context": "The taxonomic categories from species to kingdom have been shown in ascending order starting with species in Figure 1.1.",
+                "error_message": "",
+                "image_description": "The image illustrates the hierarchy of taxonomic categories in ascending order. Starting from the base, it shows 'Species' followed by 'Genus,' 'Family,' 'Order,' 'Class,' 'Phylum or Division,' and finally 'Kingdom' at the top. Each category is connected by an upward-pointing arrow, indicating the increasing level of generality or inclusiveness as one moves up the hierarchy. This diagram visually represents how organisms are classified into increasingly broader groups based on their shared characteristics.",
+                "image_title": "Figure 1.1 Taxonomic categories showing hierachial arrangement in ascending order",
+                "is_valid": true,
+                "subtopic": "1.2.7 Kingdom",
+                "topic": "1.2 Taxonomic Categories",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg",
+                "page_number": 8
+            }
+        ]
+    }
+]

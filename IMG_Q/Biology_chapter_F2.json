@@ -1,0 +1,97 @@
+[
+    {
+        "chapter": "BIOLOGICAL CLASSIFICATION",
+        "chapter_number": 2,
+        "class": 11,
+        "topics_subtopics": [
+            {
+                "context": "In addition to proteins, viruses also contain genetic material, that could be either RNA or DNA. No virus contains both RNA and DNA. A virus is a nucleoprotein and the genetic material is infectious. In general, viruses that infect plants have single stranded RNA and viruses that infect animals have either single or double stranded RNA or double stranded DNA. Bacterial viruses or bacteriophages (viruses that infect the bacteria) are usually double stranded DNA viruses (Figure 2.6b). The protein coat called capsid made of small subunits called capsomeres, protects the nucleic acid. These capsomeres are arranged in helical or polyhedral geometric forms. Viruses cause diseases like mumps, small pox, herpes and influenza. AIDS in humans is also caused by a virus. In plants, the symptoms can be mosaic formation, leaf rolling and curling, yellowing and vein clearing, dwarfing and stunted growth.",
+                "error_message": "",
+                "image_description": "The image contains two diagrams illustrating the structure of viruses. On the left (a), the Tobacco Mosaic Virus (TMV) is depicted with its RNA and capsid labeled. The capsid appears as numerous small, rounded units arranged in a helical pattern, encapsulating the RNA strand. On the right (b), a Bacteriophage is shown with distinct parts labeled: Head, Collar, Sheath, and Tail fibers. The head is a polyhedron shape, connected to a sheath with tail fibers extending from the base. These diagrams provide a clear visualization of the structural components of different types of viruses.",
+                "image_title": "Figure 2.6 (a) Tobacco Mosaic Virus (TMV) (b) Bacteriophage",
+                "is_valid": true,
+                "subtopic": "Introduction",
+                "topic": "2.6 Viruses, Viroids, Prions and Lichens",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg",
+                "page_number": 20
+            },
+            {
+                "context": "Bacteria are grouped under four categories based on their shape: the spherical Coccus (pl.: cocci), the rod-shaped Bacillus (pl.: bacilli), the comma-shaped Vibrium (pl.: vibrio) and the spiral Spirillum (pl.: spirilla) (Figure 2.1).",
+                "error_message": "",
+                "image_description": "The image illustrates the different shapes of bacteria, which include Cocci (spherical), Bacilli (rod-shaped), Spirilla (spiral), and Vibrio (comma-shaped). These shapes are fundamental in classifying bacteria. Bacilli are shown with spore. Spirilla are shown with flagellum. Understanding these basic shapes is crucial in microbiology for identifying and categorizing different types of bacteria, which is essential in studying their behavior, ecology, and impact on various environments and health conditions.",
+                "image_title": "Figure 2.1 Bacteria of different shapes",
+                "is_valid": true,
+                "subtopic": "Introduction",
+                "topic": "2.1 Kingdom Monera",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_2_Picture_6.jpeg",
+                "page_number": 12
+            },
+            {
+                "context": "Cyanobacteria are unicellular, colonial or filamentous, freshwater/marine or terrestrial algae. The colonies are generally surrounded by gelatinous sheath. They often form blooms in polluted water bodies. Some of these organisms can fix atmospheric nitrogen in specialised cells called heterocysts, e.g., Nostoc and Anabaena.",
+                "error_message": "No errors",
+                "image_description": "The image shows a filamentous blue-green algae known as Nostoc, which consists of a chain of cells surrounded by a mucilaginous sheath. Within this filament are specialized cells called heterocysts, which are larger and have a different structure from the other cells. The mucilaginous sheath is a gelatinous layer that surrounds the filament, providing protection and hydration. The heterocysts are involved in nitrogen fixation, a crucial process for converting atmospheric nitrogen into a form usable by the algae.",
+                "image_title": "Figure 2.2 A filamentous blue-green algae  Nostoc",
+                "is_valid": true,
+                "subtopic": "2.1.2 Eubacteria",
+                "topic": "2.1 Kingdom Monera",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg",
+                "page_number": 13
+            },
+            {
+                "context": "Bacteria reproduce mainly by fission (Figure 2.3).",
+                "error_message": "",
+                "image_description": "The image is a diagram of a dividing bacterium. The bacterium is in the process of dividing into two daughter cells. The diagram shows the cell wall, cell membrane, and DNA of the bacterium. The cell wall is the outermost layer of the bacterium, and it provides support and protection. The cell membrane is the next layer, and it controls what enters and exits the bacterium. The DNA is the genetic material of the bacterium, and it is located in the cytoplasm.",
+                "image_title": "Figure 2.3 A dividing bacterium",
+                "is_valid": true,
+                "subtopic": "Introduction",
+                "topic": "2.1 Kingdom Monera",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg",
+                "page_number": 14
+            },
+            {
+                "context": "These organisms are mostly marine and photosynthetic. They appear yellow, green, brown, blue or red depending on the main pigments present in their cells. The cell wall has stiff cellulose plates on the outer surface. Most of them have two flagella; one lies longitudinally and the other transversely in a furrow between the wall plates. Majority of them are fresh water organisms found in stagnant water. Instead of a cell wall, they have a protein rich layer called pellicle which makes their body flexible.\nSlime moulds are saprophytic protists. The body moves along decaying twigs and leaves engulfing organic material. Under suitable conditions, they form an aggregation called plasmodium which may grow and spread over several feet.",
+                "error_message": "",
+                "image_description": "The image shows diagrams of different organisms. (a) depicts Dinoflagellates, characterized by their unique structure and cellulose plates. (b) illustrates Euglena, showcasing its flagella and flexible pellicle. (c) represents a Slime mold, highlighting its amorphous shape. (d) displays Paramoecium, noted for its complex internal structure and cilia. These diagrams serve to visually represent the diversity and unique characteristics of protists, aiding in their identification and study.",
+                "image_title": "Figure 2.4 (a) Dinoflagellates (b) Euglena (c) Slime mould (d) Paramoecium",
+                "is_valid": true,
+                "subtopic": "2.2.2 Dinoflagellates\n2.2.3 Euglenoids\n2.2.4 Slime Moulds\n2.2.5 Protozoans",
+                "topic": "2.2 Kingdom Protista",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_5_Figure_10.jpeg",
+                "page_number": 15
+            },
+            {
+                "context": "Members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants. The mycelium is aseptate and coenocytic. Asexual reproduction takes place by zoospores (motile) or by aplanospores (non-motile). These spores are endogenously produced in sporangium. A zygospore is formed by fusion of two gametes. These gametes are similar in morphology (isogamous) or dissimilar (anisogamous or oogamous). Some common examples are Mucor (Figure 2.5a), Rhizopus (the bread mould mentioned earlier) and Albugo (the parasitic fungi on mustard).",
+                "error_message": "",
+                "image_description": "The image shows a microscopic view of Mucor, a type of fungus belonging to the Phycomycetes class. Mucor exhibits a cottony or fluffy appearance due to its extensive network of hyphae. These hyphae are aseptate, meaning they lack cross-walls, resulting in a coenocytic structure. The image also reveals the presence of sporangia, which are spherical structures containing spores. Mucor reproduces asexually through these spores, which are released to propagate and form new colonies.",
+                "image_title": "Figure 2.5 Fungi: (a) Mucor",
+                "is_valid": true,
+                "subtopic": "2.3.1 Phycomycetes",
+                "topic": "2.3 Kingdom Fungi",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg",
+                "page_number": 17
+            },
+            {
+                "context": "2.3.1 Phycomycetes\nMembers of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants. The mycelium is aseptate and coenocytic. Asexual reproduction takes place by zoospores (motile) or by aplanospores (non-motile). These spores are endogenously produced in sporangium. A zygospore is formed by fusion of two gametes. These gametes are similar in morphology (isogamous) or dissimilar (anisogamous or oogamous). Some common examples are Mucor (Figure 2.5a), Rhizopus (the bread mould mentioned earlier) and Albugo (the parasitic fungi on mustard).",
+                "error_message": "",
+                "image_description": "The image shows a microscopic view of Aspergillus, a type of fungi. The Aspergillus appears as a spherical structure with radial filaments extending from the center, creating a textured, globular appearance. The overall color is a yellowish-brown hue against a light green background, likely indicating the culture medium. A thin, dark line extends from the base, possibly the stalk or hypha supporting the structure. The image provides a clear view of the fungal morphology, useful for studying its characteristics under a microscope.",
+                "image_title": "Aspergillus",
+                "is_valid": true,
+                "subtopic": "2.3.1 Phycomycetes",
+                "topic": "2.3 Kingdom Fungi",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg",
+                "page_number": 17
+            },
+            {
+                "context": "Members of phycomycetes are found in aquatic habitats and on decaying wood in moist and damp places or as obligate parasites on plants. The mycelium is aseptate and coenocytic. Asexual reproduction takes place by zoospores (motile) or by aplanospores (non-motile). These spores are endogenously produced in sporangium. A zygospore is formed by fusion of two gametes. These gametes are similar in morphology (isogamous) or dissimilar (anisogamous or oogamous). Some common examples are Mucor (Figure 2.5a), Rhizopus (the bread mould mentioned earlier) and Albugo (the parasitic fungi on mustard).",
+                "error_message": "",
+                "image_description": "The image shows an Agaricus, which is a type of Basidiomycetes fungi, commonly known as a mushroom. It consists of a cap, also known as a pileus, which is the umbrella-shaped top part. Underneath the cap, there are gills or lamellae, where the spores are produced. The stem, also called a stipe, supports the cap, and at the base, there are mycelial threads that anchor the fungus to the substrate. The mushroom's cap is orange in color, while the stem is cream. The figure is labeled (c).",
+                "image_title": "Figure 2.5 Fungi: (a) Mucor (b) Aspergillus (c) Agaricus",
+                "is_valid": true,
+                "subtopic": "2.3.1 Phycomycetes",
+                "topic": "2.3 Kingdom Fungi",
+                "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg",
+                "page_number": 17
+            }
+        ]
+    }
+]

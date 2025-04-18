@@ -1,0 +1,995 @@
+[
+  {
+    "correct_option_index": 0,
+    "explanation": "Nostoc is a filamentous cyanobacterium known for its nitrogen-fixing capabilities, which occur in specialized cells called heterocysts.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Nitrogen fixation"
+      },
+      {
+        "image_url": "",
+        "text": "Asexual reproduction"
+      },
+      {
+        "image_url": "",
+        "text": "Sexual reproduction"
+      },
+      {
+        "image_url": "",
+        "text": "Decomposition"
+      }
+    ],
+    "question_text": "What is the primary function of heterocysts in the filamentous blue-green algae Nostoc, as shown in the image?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg"
+  },
+  {
+    "correct_option_index": 2,
+    "explanation": "The image shows bacteria with a spiral shape, which are classified as Spirilla.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Cocci"
+      },
+      {
+        "image_url": "",
+        "text": "Bacilli"
+      },
+      {
+        "image_url": "",
+        "text": "Spirilla"
+      },
+      {
+        "image_url": "",
+        "text": "Vibrio"
+      }
+    ],
+    "question_text": "In the image above, which bacterial shape is characterized by a spiral form?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_2_Picture_6.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image depicts a bacterium undergoing binary fission, a process of asexual reproduction.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Binary fission"
+      },
+      {
+        "image_url": "",
+        "text": "Meiosis"
+      },
+      {
+        "image_url": "",
+        "text": "Mitosis"
+      },
+      {
+        "image_url": "",
+        "text": "Conjugation"
+      }
+    ],
+    "question_text": "The image shows a bacterium dividing. What is the name of this process?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "Dinoflagellates are characterized by stiff cellulose plates on their outer surface.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_5_Figure_10.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Euglena_mutabilis.jpg/640px-Euglena_mutabilis.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Slime_mold_on_birch_bark.jpg/640px-Slime_mold_on_birch_bark.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Paramecium_aurelia_SEM_04.jpg/640px-Paramecium_aurelia_SEM_04.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows an organism with stiff cellulose plates on its outer surface?",
+    "topic": "2.2 Kingdom Protista",
+    "question_image_url": ""
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The correct order is Species, Genus, Family, Order, Class, Phylum, Kingdom.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Species, Genus, Family, Order, Class, Phylum, Kingdom"
+      },
+      {
+        "image_url": "",
+        "text": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+      },
+      {
+        "image_url": "",
+        "text": "Genus, Species, Family, Order, Class, Phylum, Kingdom"
+      },
+      {
+        "image_url": "",
+        "text": "Species, Family, Genus, Order, Class, Phylum, Kingdom"
+      }
+    ],
+    "question_text": "According to the image, which of the following represents the correct order of taxonomic categories in ascending order?",
+    "topic": "1.2 Taxonomic Categories",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "Mucor exhibits a cottony or fluffy appearance due to its extensive network of hyphae.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Penicillium_chrysogenum2.jpg/640px-Penicillium_chrysogenum2.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows a fungus with a cottony or fluffy appearance, indicative of Mucor?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": ""
+  },
+  {
+    "correct_option_index": 1,
+    "explanation": "Aspergillus appears as a spherical structure with radial filaments extending from the center.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Penicillium_chrysogenum2.jpg/640px-Penicillium_chrysogenum2.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images best represents the appearance of Aspergillus?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": ""
+  },
+  {
+    "correct_option_index": 2,
+    "explanation": "Agaricus is a type of Basidiomycetes fungi, commonly known as a mushroom, consisting of a cap and a stem.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Penicillium_chrysogenum2.jpg/640px-Penicillium_chrysogenum2.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows Agaricus, a type of mushroom?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": ""
+  },
+  {
+    "correct_option_index": 1,
+    "explanation": "The bacteriophage in the image has distinct parts labeled: Head, Collar, Sheath, and Tail fibers.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Tobacco Mosaic Virus"
+      },
+      {
+        "image_url": "",
+        "text": "Bacteriophage"
+      },
+      {
+        "image_url": "",
+        "text": "Viroid"
+      },
+      {
+        "image_url": "",
+        "text": "Prion"
+      }
+    ],
+    "question_text": "In the image above, which type of virus is depicted with a head, collar, sheath, and tail fibers?",
+    "topic": "2.6 Viruses, Viroids, Prions and Lichens",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The Tobacco Mosaic Virus (TMV) is shown with its RNA and capsid labeled.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Adenovirus_TEM.jpg/640px-Adenovirus_TEM.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/HIV-1_Transmission_electron_micrograph_NIAID.jpg/640px-HIV-1_Transmission_electron_micrograph_NIAID.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coronavirus_SARS-CoV-2.png/640px-Coronavirus_SARS-CoV-2.png",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows the structure of the Tobacco Mosaic Virus (TMV)?",
+    "topic": "2.6 Viruses, Viroids, Prions and Lichens",
+    "question_image_url": ""
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "Cocci are spherical-shaped bacteria, as shown in the image.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_2_Picture_6.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Bacillus_anthracis_01.jpg/640px-Bacillus_anthracis_01.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Treponema_pallidum.jpg/640px-Treponema_pallidum.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vibrio_cholerae_01.jpg/640px-Vibrio_cholerae_01.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows cocci-shaped bacteria?",
+    "topic": "2.1 Kingdom Monera"
+  },
+  {
+    "correct_option_index": 2,
+    "explanation": "Nostoc is a filamentous blue-green algae known for its heterocysts, which are specialized cells for nitrogen fixation.",
+    "options": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spirogyra_sp.jpg/640px-Spirogyra_sp.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chlamydomonas.jpg/640px-Chlamydomonas.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Volvox_aureus_01.jpg/640px-Volvox_aureus_01.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows Nostoc?",
+    "topic": "2.1 Kingdom Monera"
+  },
+  {
+    "correct_option_index": 1,
+    "explanation": "Viruses can have either RNA or DNA as their genetic material, but not both.",
+    "options": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Animal_cell_structure_en.svg/640px-Animal_cell_structure_en.svg.png",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Escherichia_coli_Bacteria.jpg/640px-Escherichia_coli_Bacteria.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spirogyra_sp.jpg/640px-Spirogyra_sp.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows a virus?",
+    "topic": "2.6 Viruses, Viroids, Prions and Lichens"
+  },
+  {
+    "correct_option_index": 3,
+    "explanation": "Agaricus is a genus of mushrooms, which are Basidiomycetes fungi. The image shows the typical structure of a mushroom with a cap and stem.",
+    "options": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Volvox_aureus_01.jpg/640px-Volvox_aureus_01.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows Agaricus?",
+    "topic": "2.3 Kingdom Fungi"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows a dividing bacterium, which reproduces through fission.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Escherichia_coli_Bacteria.jpg/640px-Escherichia_coli_Bacteria.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Treponema_pallidum.jpg/640px-Treponema_pallidum.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vibrio_cholerae_01.jpg/640px-Vibrio_cholerae_01.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows a dividing bacterium?",
+    "topic": "2.1 Kingdom Monera"
+  },
+  {
+    "correct_option_index": 2,
+    "explanation": "The image shows Dinoflagellates, Euglena, Slime mould and Paramoecium, which are all examples of protists.",
+    "options": [
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Animal_cell_structure_en.svg/640px-Animal_cell_structure_en.svg.png",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Escherichia_coli_Bacteria.jpg/640px-Escherichia_coli_Bacteria.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_5_Figure_10.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spirogyra_sp.jpg/640px-Spirogyra_sp.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows protists?",
+    "topic": "2.2 Kingdom Protista"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows the taxonomic categories in ascending order, starting from species and ending with kingdom.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Animal_cell_structure_en.svg/640px-Animal_cell_structure_en.svg.png",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Escherichia_coli_Bacteria.jpg/640px-Escherichia_coli_Bacteria.jpg",
+        "text": ""
+      },
+      {
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Spirogyra_sp.jpg/640px-Spirogyra_sp.jpg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows the taxonomic categories in ascending order?",
+    "topic": "1.2 Taxonomic Categories"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "In the image above, the bacterium is dividing via fission.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Fission"
+      },
+      {
+        "image_url": "",
+        "text": "Budding"
+      },
+      {
+        "image_url": "",
+        "text": "Fragmentation"
+      },
+      {
+        "image_url": "",
+        "text": "Sexual Reproduction"
+      }
+    ],
+    "question_text": "The following image shows a bacterium undergoing which process? \n\n[Image: https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg]",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 1,
+    "explanation": "In the image, the virus contains a capsid and genetic material.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Cell Wall"
+      },
+      {
+        "image_url": "",
+        "text": "Capsid"
+      },
+      {
+        "image_url": "",
+        "text": "Mitochondria"
+      },
+      {
+        "image_url": "",
+        "text": "Chloroplast"
+      }
+    ],
+    "question_text": "In the image below, what is the name of the outer protein coat of the virus?\n\n[Image: https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg]",
+    "topic": "2.6 Viruses, Viroids, Prions and Lichens",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 2,
+    "explanation": "The image shows Nostoc, which contains specialized cells called heterocysts for nitrogen fixation.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Rhizoids"
+      },
+      {
+        "image_url": "",
+        "text": "Flagella"
+      },
+      {
+        "image_url": "",
+        "text": "Heterocysts"
+      },
+      {
+        "image_url": "",
+        "text": "Cilia"
+      }
+    ],
+    "question_text": "In the image below, what are the specialized cells in Nostoc called?\n\n[Image: https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg]",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows a bacteriophage, a virus that infects bacteria, characterized by its head, collar, sheath, and tail fibers.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Bacteriophage"
+      },
+      {
+        "image_url": "",
+        "text": "Tobacco Mosaic Virus"
+      },
+      {
+        "image_url": "",
+        "text": "Euglena"
+      },
+      {
+        "image_url": "",
+        "text": "Nostoc"
+      }
+    ],
+    "question_text": "In the image below, which structure is depicted?",
+    "topic": "2.6 Viruses, Viroids, Prions and Lichens",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Cocci, which are spherical-shaped bacteria.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Cocci"
+      },
+      {
+        "image_url": "",
+        "text": "Bacilli"
+      },
+      {
+        "image_url": "",
+        "text": "Spirilla"
+      },
+      {
+        "image_url": "",
+        "text": "Vibrio"
+      }
+    ],
+    "question_text": "The image shows bacteria with what shape?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_2_Picture_6.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Nostoc, a filamentous blue-green algae with heterocysts and a mucilaginous sheath.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Nostoc"
+      },
+      {
+        "image_url": "",
+        "text": "Mucor"
+      },
+      {
+        "image_url": "",
+        "text": "Aspergillus"
+      },
+      {
+        "image_url": "",
+        "text": "Agaricus"
+      }
+    ],
+    "question_text": "What organism is shown in the image?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows a dividing bacterium, illustrating the process of binary fission.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Dividing bacterium"
+      },
+      {
+        "image_url": "",
+        "text": "Dinoflagellates"
+      },
+      {
+        "image_url": "",
+        "text": "Euglena"
+      },
+      {
+        "image_url": "",
+        "text": "Slime mold"
+      }
+    ],
+    "question_text": "The image depicts which process in bacteria?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Mucor, a fungus with aseptate hyphae and sporangia.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Mucor"
+      },
+      {
+        "image_url": "",
+        "text": "Aspergillus"
+      },
+      {
+        "image_url": "",
+        "text": "Agaricus"
+      },
+      {
+        "image_url": "",
+        "text": "Nostoc"
+      }
+    ],
+    "question_text": "Identify the fungus shown in the image.",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Aspergillus, a fungus with a characteristic conidial head.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Aspergillus"
+      },
+      {
+        "image_url": "",
+        "text": "Mucor"
+      },
+      {
+        "image_url": "",
+        "text": "Agaricus"
+      },
+      {
+        "image_url": "",
+        "text": "Rhizopus"
+      }
+    ],
+    "question_text": "Which of the following fungi is shown in the image?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Agaricus, a basidiomycete fungus commonly known as a mushroom.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Agaricus"
+      },
+      {
+        "image_url": "",
+        "text": "Aspergillus"
+      },
+      {
+        "image_url": "",
+        "text": "Mucor"
+      },
+      {
+        "image_url": "",
+        "text": "Yeast"
+      }
+    ],
+    "question_text": "What type of fungus is depicted in the image?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows the taxonomic hierarchy, with Kingdom at the top and Species at the bottom.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Taxonomic Hierarchy"
+      },
+      {
+        "image_url": "",
+        "text": "Bacterial Shapes"
+      },
+      {
+        "image_url": "",
+        "text": "Viral Structures"
+      },
+      {
+        "image_url": "",
+        "text": "Protist Diversity"
+      }
+    ],
+    "question_text": "What does the image illustrate?",
+    "topic": "1.2 Taxonomic Categories",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "Dinoflagellates are characterized by stiff cellulose plates on their outer surface.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_5_Figure_10.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_2_Picture_6.jpeg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows Dinoflagellates?",
+    "topic": "2.2 Kingdom Protista",
+    "question_image_url": ""
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Nostoc, a filamentous blue-green algae (cyanobacteria) with heterocysts, which are specialized cells for nitrogen fixation.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Nitrogen fixation"
+      },
+      {
+        "image_url": "",
+        "text": "Sexual reproduction"
+      },
+      {
+        "image_url": "",
+        "text": "Asexual reproduction"
+      },
+      {
+        "image_url": "",
+        "text": "Binary fission"
+      }
+    ],
+    "question_text": "In the image above, what is the primary function of the heterocysts found in Nostoc?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "Agaricus is a genus of mushrooms, which are a type of Basidiomycetes fungi characterized by a cap (pileus), gills (lamellae), and a stem (stipe).",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Basidiomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Ascomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Zygomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Deuteromycetes"
+      }
+    ],
+    "question_text": "In the image above, Agaricus belongs to which class of fungi?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "Mucor is a type of fungus that belongs to the class Phycomycetes. It is characterized by aseptate hyphae and reproduces asexually through spores produced in sporangia.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Phycomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Ascomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Basidiomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Deuteromycetes"
+      }
+    ],
+    "question_text": "The fungus in the image above, characterized by aseptate hyphae and sporangia, belongs to which class?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows a bacterium undergoing binary fission, a process of asexual reproduction where the cell divides into two identical daughter cells.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Binary fission"
+      },
+      {
+        "image_url": "",
+        "text": "Mitosis"
+      },
+      {
+        "image_url": "",
+        "text": "Meiosis"
+      },
+      {
+        "image_url": "",
+        "text": "Budding"
+      }
+    ],
+    "question_text": "In the image above, what process is the bacterium undergoing?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows bacteria of different shapes, including cocci (spherical), bacilli (rod-shaped), spirilla (spiral), and vibrio (comma-shaped).",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Bacilli"
+      },
+      {
+        "image_url": "",
+        "text": "Cocci"
+      },
+      {
+        "image_url": "",
+        "text": "Spirilla"
+      },
+      {
+        "image_url": "",
+        "text": "Vibrio"
+      }
+    ],
+    "question_text": "According to the image above, which of the following bacterial shapes is rod-shaped?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_2_Picture_6.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Dinoflagellates, Euglena, Slime mold and Paramecium, all of which are protists.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Protista"
+      },
+      {
+        "image_url": "",
+        "text": "Monera"
+      },
+      {
+        "image_url": "",
+        "text": "Fungi"
+      },
+      {
+        "image_url": "",
+        "text": "Plantae"
+      }
+    ],
+    "question_text": "According to the image above, Dinoflagellates, Euglena, Slime mold and Paramecium belong to which kingdom?",
+    "topic": "2.2 Kingdom Protista",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_5_Figure_10.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Tobacco Mosaic Virus (TMV) and Bacteriophage, both of which are viruses.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Capsid"
+      },
+      {
+        "image_url": "",
+        "text": "Cell wall"
+      },
+      {
+        "image_url": "",
+        "text": "Cell membrane"
+      },
+      {
+        "image_url": "",
+        "text": "Mitochondria"
+      }
+    ],
+    "question_text": "According to the image above, what is the protein coat surrounding the nucleic acid of a virus called?",
+    "topic": "2.6 Viruses, Viroids, Prions and Lichens",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_10_Figure_1.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "Aspergillus is a fungus that belongs to the class Ascomycetes. It is characterized by conidiophores with chains of conidia.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Ascomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Basidiomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Zygomycetes"
+      },
+      {
+        "image_url": "",
+        "text": "Deuteromycetes"
+      }
+    ],
+    "question_text": "The fungus in the image above, characterized by conidiophores, belongs to which class?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows the taxonomic categories in hierarchical order, with species being the most specific and kingdom being the most general.",
+    "options": [
+      {
+        "image_url": "",
+        "text": "Species"
+      },
+      {
+        "image_url": "",
+        "text": "Genus"
+      },
+      {
+        "image_url": "",
+        "text": "Family"
+      },
+      {
+        "image_url": "",
+        "text": "Order"
+      }
+    ],
+    "question_text": "According to the image above, which taxonomic category is the most specific?",
+    "topic": "1.2 Taxonomic Categories",
+    "question_image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg"
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Nostoc, which is a filamentous cyanobacteria.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_3_Picture_7.jpeg",
+        "text": "Nostoc"
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_2_Picture_6.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_4_Figure_1.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images shows a filamentous cyanobacteria?",
+    "topic": "2.1 Kingdom Monera",
+    "question_image_url": ""
+  },
+  {
+    "correct_option_index": 0,
+    "explanation": "The image shows Agaricus, a type of Basidiomycetes fungi, commonly known as a mushroom. It consists of a cap, also known as a pileus, which is the umbrella-shaped top part. Underneath the cap, there are gills or lamellae, where the spores are produced. The stem, also called a stipe, supports the cap.",
+    "options": [
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_14.jpeg",
+        "text": "Agaricus"
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_11.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_2/images/_page_7_Picture_12.jpeg",
+        "text": ""
+      },
+      {
+        "image_url": "https://ncert-holistic-data-extraction.s3.amazonaws.com/ncert/class_11/biology/chapter_1/images/_page_7_Figure_10.jpeg",
+        "text": ""
+      }
+    ],
+    "question_text": "Which of the following images represents Agaricus?",
+    "topic": "2.3 Kingdom Fungi",
+    "question_image_url": ""
+  }
+]
